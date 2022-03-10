@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_the_user_information">Add the User Information</string>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="nameEditText">alaa</string>
+    <string name="birthdata">BirthData</string>
+    <string name="more_information">More Information</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>

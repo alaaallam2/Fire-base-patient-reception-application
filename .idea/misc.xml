@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable-v24/ic_delete.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable-v24/ic_edit.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable-v24/ic_more.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/custom_edittetext.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/custom_edittetext1.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/gradientbackground.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/ic_baseline_details_24.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/drawable/searchview_backgound.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_items.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_splash.xml" value="0.10869565217391304" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/activity_upload.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/row_item.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/layout/show_menu.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/menu/searchmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/MyApplication11/app/src/main/res/menu/show_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

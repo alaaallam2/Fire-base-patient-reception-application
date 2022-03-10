@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_sizes">
+        <item> Dermatology</item>
+        <item> Cardiology</item>
+        <item> Hematology</item>
+        <item> Nephrology</item>
+        <item> Oncology</item>
+        <item>Rheumatology</item>
+        <item> Pediatric</item>
+        <item> Obstetrics-Gynecology</item>
+        <item> Neurology</item>
+        <item> Ear,Nose-Throat </item>
+        <item> Urology</item>
+        <item> Hepatology</item>
+        <item> Psychiatry</item>
+    </string-array>
+</resources>
